@@ -1,0 +1,19 @@
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
+
+Aryia:
+  name: Aryia Sharvas
+  title: Bearded Dragon Enthusiast
+  image_url: https://m.media-amazon.com/images/I/711iCXswlDL._AC_UF350,350_QL80_.jpg
+  page:
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    github: aventures91
+    newsletter: https://www.scalestailsandtales.com/news

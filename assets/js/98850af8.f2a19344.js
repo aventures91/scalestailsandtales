@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscales_tails=self.webpackChunkscales_tails||[]).push([[930],{302:a=>{a.exports=JSON.parse('{"tag":{"label":"health","permalink":"/tags/health","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/health","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

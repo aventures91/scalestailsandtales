@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscales_tails=self.webpackChunkscales_tails||[]).push([[2634],{192:(e,s,i)=>{i.r(s),i.d(s,{default:()=>t});i(6540);var l=i(4848);function t(){return(0,l.jsxs)("div",{style:{padding:"2rem",textAlign:"center"},children:[(0,l.jsx)("h1",{children:"Minimal Test Page"}),(0,l.jsx)("p",{children:"If this works, the homepage is loading correctly!"})]})}}}]);

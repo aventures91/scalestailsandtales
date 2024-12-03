@@ -1,0 +1,44 @@
+Health:
+  label: Health
+  permalink: /Health
+  description: Everything there is know about Bearded Dragon health and wellness.
+
+Habitat:
+  label: Habitat
+  permalink: /habitat
+  description: Everything you need to know about Bearded Dragons Habitats.
+
+Diet:
+  label: Diet
+  permalink: /diet
+  description: Everything you need to know about Bearded Dragons diet and feeding habits.
+
+'101':
+  label: '101'
+  permalink: /'101'
+  description: Bearded Dragon Basics
+
+Beginner:
+  label: Beginner
+  permalink: /Beginner
+  description: Beginners guide to Bearded Dragons
+
+Behaviour:
+  label: Behaviour
+  permalink: /Behaviour
+  description: Bearded Dragon Behaviour
+
+Enrichment:
+  label: Enrichment
+  permalink: /enrichment
+  description: Bearded Dragon Enrichment
+
+Guide:
+  label: Guide
+  permalink: /guide
+  description: Step by step guides for everything bearded dragon related
+
+Product Reviews:
+  label: Reviews
+  permalink: /reviews
+  description: Reviews and comparisons of Bearded Dragon Products and services
