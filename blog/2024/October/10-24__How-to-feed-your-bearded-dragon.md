@@ -4,7 +4,7 @@ date: 2024-10-24T11:00:00-08:00
 authors: [Aryia]
 draft: false
 description: "Learn how to create a balanced diet for your bearded dragon, including a feeding schedule and tips for safe, nutritious meals at every stage of life."
-tags: ['101', Beginner, Guide, Diet, Health]
+tags: ['101', beginner, guides, diet, health]
 keywords: ["bearded dragon feeding", "bearded dragon diet", "feeding schedule", "bearded dragon nutrition", "bearded dragon care"]
 ---
 

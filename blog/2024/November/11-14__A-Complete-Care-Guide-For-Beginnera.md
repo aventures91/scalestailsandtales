@@ -4,7 +4,7 @@ date: 2024-11-14T01:28:53-08:00
 authors: [Aryia]
 draft: false
 description: "A complete care guide for beginner bearded dragon owners. Learn how to create the perfect habitat, provide a balanced diet, and keep your bearded dragon healthy."
-tags: [101, Beginner, Guide, Diet, Habitat, Health]
+tags: ['101', Beginner, Guide, Diet, Habitat, Health]
 keywords: ["bearded dragon care", "bearded dragon habitat", "feeding bearded dragons", "bearded dragon health", "bearded dragon beginner guide"]
 ---
 # The Ultimate Bearded Dragon Care Guide for Beginners
